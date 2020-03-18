@@ -1,4 +1,4 @@
 # test-site
 landing page
 
-Bootstrap site made to the recap my knoweldge
+Bootstrap site made to recap my knoweldge
